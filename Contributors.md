@@ -7,6 +7,7 @@
 - [Humphrey Galiwango](https://github.com/Humphrey-Galiwango99)
 - [Simon Peter Mujuni](https://github.com/sp-mujuni)
 - [Nabil Lubega](https://github.com/nklubega)
+- [Nkambwe John Mark](https://github.com/Nkambwe)
 - [Pius Tumwebaze](https://github.com/Vladmir-dev)
 - [Humphrey  Okoth](https://github.com/humphreyokoth)
 - [Fred Vuni](https://github.com/FREDVUNI)
