@@ -6,6 +6,7 @@
 - [Hassan Bahati Mukisa](https://github.com/HassanBahati)
 - [Humphrey Galiwango](https://github.com/Humphrey-Galiwango99)
 - [Simon Peter Mujuni](https://github.com/sp-mujuni)
+- [Daniel1000c](https://github.com/Daniel1000c)
 - [Nabil Lubega](https://github.com/nklubega)
 - [Pius Tumwebaze](https://github.com/Vladmir-dev)
 - [Humphrey  Okoth](https://github.com/humphreyokoth)
