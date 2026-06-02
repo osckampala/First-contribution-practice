@@ -14,3 +14,4 @@
 - [Karan Chandekar](https://github.com/KaranChandekar)
 - PATRICK FITZ
 - [Kisakye Moses](https://github.com/moses-kisakye)
+- [Grom0x0](https://github.com/gromix0x0)
